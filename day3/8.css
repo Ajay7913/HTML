@@ -1,0 +1,22 @@
+/*This Apllies to all the Div*/
+div{
+    margin-bottom:8px;
+    padding: 8px;
+
+    columns: red;
+    background: yellow;
+    
+}
+/*This is ID selector demo: using Special CHAR*/
+/*Ideally This Should Applies To Only One*/
+
+#id1{
+    color: white;
+    background: green;
+}
+
+/*CLASS SELETOR: USING CHAR DOT.*/
+.class1{
+    color:whitesmoke;
+    background: purple;
+}
